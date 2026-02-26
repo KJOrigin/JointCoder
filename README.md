@@ -3,7 +3,7 @@
 <p float="left"><img src="https://img.shields.io/badge/python-v3.9+-red"> <img src="https://img.shields.io/badge/pytorch-v2.6+-blue">
    
 # JointCoder
-This repository provides the official implementation of the paper **“Who Fights Best? Discovering Winning Personality Pairings for LLM Debate Agents”**, including the MBTI-DB framework, personality-conditioned debate prompts, experimental code, evaluation scripts, and released results, enabling reproducible research and further exploration of personality-driven multi-agent debate in large language models.
+This repository provides the official implementation of the paper **“JointCoder: Exploring Automated ICD Coding on Real-World Chinese EHRs with a Multi-Agent Framework”** , including a real-world Chinese ICD dataset and a workflow-aligned multi-agent framework for joint ICD-10 disease and ICD-9-CM-3 procedure coding.
 
 <div align="center">
    <img src="Pictures/fig1.png" alt="fig1" width="80%" border="0">
