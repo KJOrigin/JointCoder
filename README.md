@@ -57,7 +57,7 @@ The video demonstrates the complete workflow, including demo case selection, OCR
 
 ## 📌 Case Study
 <div align="center">
-<img src="Pictures/case.png" alt="case" width="80%" border="0">
+<img src="Pictures/case.png" alt="case" width="60%" border="0">
 </div>
 
 **Figure5**:Case study comparing disease and procedure ICD prediction results of different methods on a real-world Chinese EHR example.
