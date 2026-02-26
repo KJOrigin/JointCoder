@@ -5,9 +5,7 @@
 # JointCoder
 This repository provides the official implementation of the paper **“Who Fights Best? Discovering Winning Personality Pairings for LLM Debate Agents”**, including the MBTI-DB framework, personality-conditioned debate prompts, experimental code, evaluation scripts, and released results, enabling reproducible research and further exploration of personality-driven multi-agent debate in large language models.
 
-<div align="center">
-   <img src="Pictures/fig1.png" alt="fig1" width="60%" border="0">
-</div>
+<img src="Pictures/fig1.png" alt="fig1" width="60%" border="0">
 
 **Figure1**: Overview of the automated ICD coding task. Given patient EHRs, the goal is to jointly predict ICD-10 disease codes and ICD-9-CM-3 procedure codes, where disease and procedure coding are clinically correlated.
 
