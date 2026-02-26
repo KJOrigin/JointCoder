@@ -62,5 +62,11 @@ The video demonstrates the complete workflow, including demo case selection, OCR
 
 **Figure5**:Case study comparing disease and procedure ICD prediction results of different methods on a real-world Chinese EHR example.
 
+## 🧩 Workflow Example
+<div align="center">
+<img src="Pictures/workflow.png" alt="workflow" width="60%" border="0">
+</div>
+
+**Figure6**:An illustrative example of the JointCoder workflow, showing intermediate outputs for disease and procedure coding at each stage.
 
 ## 🌟 Contributions and suggestions are welcome!
