@@ -5,16 +5,10 @@
 # JointCoder
 This repository provides the official implementation of the paper **“Who Fights Best? Discovering Winning Personality Pairings for LLM Debate Agents”**, including the MBTI-DB framework, personality-conditioned debate prompts, experimental code, evaluation scripts, and released results, enabling reproducible research and further exploration of personality-driven multi-agent debate in large language models.
 
-<div align="center">
-   <img src="Pictures/fig1.png" alt="fig1" width="60%" border="0">
-</div>
-
-**Figure1**: Illustration of personality's impact on MAD. Personality-neutral agents (top) may converge on incorrect conclusions through homogeneous reasoning. Personality-differentiated agents (bottom) leverage complementary reasoning styles, such as exploratory versus constraint-based approaches, to achieve correct outcomes through diverse perspectives.
-
 ## ✨ Overview
-<img src="Pictures/fig2.png" alt="fig2" border="0">
+<img src="Pictures/main.png" alt="fig2" border="0">
 
-**Figure2**: Overview of our MBTI-inspired debate framework. MBTI personality descriptions are manually rewritten as debate behavior descriptions. We then conduct single-agent evaluation to rank personality types for strategic team selection, followed by multi-agent debate experiments.
+**Figure2**: Overview of the JointCoder framework and the real-world Chinese ICD coding dataset. JointCoder jointly performs ICD-10 disease coding and ICD-9-CM-3 procedure coding through a unified, workflow-aligned multi-stage multi-agent framework.
 
 ## 📊 Experiments
 <div align="center">
