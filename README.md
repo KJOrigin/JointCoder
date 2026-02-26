@@ -55,8 +55,12 @@ The video demonstrates the complete workflow, including demo case selection, OCR
 
 **Figure4**: Performance of different methods on the proposed ICD coding dataset. Models marked with $^\dagger$ denote commercial APIs. The best and second-best results are highlighted in **bold** and <ins>underline</ins>, respectively. Results marked with $^*$ indicate statistically significant improvements over the strongest baseline ($p < 0.05$).
 
+## 📌 Case Study
+<div align="center">
+<img src="Pictures/case.png" alt="case" width="80%" border="0">
+</div>
 
-**For more detailed experimental results, please [Click here!](Experiment%20Results/README.md)**
+**Figure5**:Case study comparing disease and procedure ICD prediction results of different methods on a real-world Chinese EHR example.
 
 
 ## 🌟 Contributions and suggestions are welcome!
