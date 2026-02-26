@@ -50,7 +50,7 @@ The video demonstrates the complete workflow, including demo case selection, OCR
 
 ## 📊 Experiments
 <div align="center">
-<img src="Pictures/fig4.png" alt="fig4" width="80%" border="0">
+<img src="Pictures/fig4.png" alt="fig4" width="60%" border="0">
 </div>
 
 **Figure3**: Performance of different methods on the proposed ICD coding dataset. Models marked with $^\dagger$ denote commercial APIs. The best and second-best results are highlighted in **bold** and <ins>underline</ins>, respectively. Results marked with $^*$ indicate statistically significant improvements over the strongest baseline ($p < 0.05$).
