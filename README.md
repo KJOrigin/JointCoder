@@ -17,7 +17,7 @@ This repository provides the official implementation of the paper **“Who Fight
 **Figure2**: Overview of the JointCoder framework and the real-world Chinese ICD coding dataset. JointCoder jointly performs ICD-10 disease coding and ICD-9-CM-3 procedure coding through a unified, workflow-aligned multi-stage multi-agent framework.
 
 ## 🌐 Demo Website
-**Demo Website**: please [Click here!](http://159.89.222.214:9028/)**
+**Demo Website: please [Click here!](http://159.89.222.214:9028/)**
 
 What you can do on the website:
 Upload EHR text / PDF and run the automated ICD coding pipeline
@@ -25,7 +25,7 @@ Inspect multi-stage multi-agent intermediate reasoning steps (e.g., extraction �
 View final predictions for ICD-10 disease codes and ICD-9-CM-3 procedure codes
 
 ## 🎬 Demo Video
-**Demo Video**: please [Click here!](https://yunpan.qlu.edu.cn:443/link/CE86D849DD24EA9EE3D68AF2FD90D539)**
+**Demo Video: please [Click here!](https://yunpan.qlu.edu.cn:443/link/CE86D849DD24EA9EE3D68AF2FD90D539)**
 
 Video highlights:
 End-to-end run: upload EHR → OCR (if PDF) → multi-agent workflow → ICD results
