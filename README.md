@@ -42,7 +42,6 @@ After coding, users can provide case-level or result-level feedback, mark cases 
 
 ## 🎬 Demo Video
 **The demo video can be accessed at [this link.](https://yunpan.qlu.edu.cn:443/link/CE86D849DD24EA9EE3D68AF2FD90D539)**
-
 We provide a demo video (2 minutes and 29 seconds) that comprehensively showcases all functionalities of **JointCoder**.
 The video demonstrates the complete workflow, including demo case selection, OCR-based content extraction and de-identification, editable input review, parallel disease and procedure coding, expandable multi-agent outputs, structured ICD result presentation, feedback annotation, and data export.
 
