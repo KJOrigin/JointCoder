@@ -60,18 +60,18 @@ The video demonstrates the complete workflow, including demo case selection, OCR
 <img src="Pictures/case.png" alt="case" width="60%" border="0">
 </div>
 
-**Figure5**:Case study comparing disease and procedure ICD prediction results of different methods on a real-world Chinese EHR example.
+**Figure5**: Case study comparing disease and procedure ICD prediction results of different methods on a real-world Chinese EHR example.
 
 ## 🧪 Ablation Study
 <div align="center">
 <img src="Pictures/fig5.png" alt="fig5" width="50%" border="0">
 
-**Figure6**:Ablation results for disease ICD coding.
+**Figure6**: Ablation results for disease ICD coding.
 </div>
 <div align="center">
 <img src="Pictures/fig6.png" alt="fig6" width="50%" border="0">
 
-**Figure7**:Ablation results for procedure ICD coding.
+**Figure7**: Ablation results for procedure ICD coding.
 </div>
 
 ## 🧩 Workflow Example
@@ -79,6 +79,6 @@ The video demonstrates the complete workflow, including demo case selection, OCR
 <img src="Pictures/workflow.png" alt="workflow" width="80%" border="0">
 </div>
 
-**Figure8**:An illustrative example of the JointCoder workflow, showing intermediate outputs for disease and procedure coding at each stage.
+**Figure8**: An illustrative example of the JointCoder workflow, showing intermediate outputs for disease and procedure coding at each stage.
 
 ## 🌟 Contributions and suggestions are welcome!
