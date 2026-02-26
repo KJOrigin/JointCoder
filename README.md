@@ -58,9 +58,9 @@ The video demonstrates the complete workflow, including demo case selection, OCR
 ## 📌 Case Study
 <div align="center">
 <img src="Pictures/case.png" alt="case" width="60%" border="0">
-</div>
 
 **Figure5**: Case study comparing disease and procedure ICD prediction results of different methods on a real-world Chinese EHR example.
+</div>
 
 ## 🧪 Ablation Study
 <div align="center">
@@ -77,8 +77,8 @@ The video demonstrates the complete workflow, including demo case selection, OCR
 ## 🧩 Workflow Example
 <div align="center">
 <img src="Pictures/workflow.png" alt="workflow" width="80%" border="0">
-</div>
 
 **Figure8**: An illustrative example of the JointCoder workflow, showing intermediate outputs for disease and procedure coding at each stage.
+</div>
 
 ## 🌟 Contributions and suggestions are welcome!
