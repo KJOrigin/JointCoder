@@ -52,41 +52,37 @@ The video demonstrates the complete workflow, including demo case selection, OCR
 We construct a real-world dataset for automated ICD coding based on de-identified patient EHRs from a top-tier Chinese hospital. The dataset contains 6,747 hospitalization records, each annotated with ICD-10 disease codes and ICD-9-CM-3 procedure codes by experienced coders.﻿
 Here, we present a representative sample to demonstrate the specific structure of the dataset.
 
-<img src="Pictures/table1.png" alt="table1" border="0">
-
-**Figure4**: A representative sample from the dataset, illustrating the structure of a de-identified EHR record and its corresponding ICD-10 disease codes and ICD-9-CM-3 procedure codes.
-
 ## 📊 Experiments
 <div align="center">
 <img src="Pictures/fig4.png" alt="fig4" width="60%" border="0">
 </div>
 
-**Figure5**: Performance of different methods on the proposed ICD coding dataset. Models marked with $^\dagger$ denote commercial APIs. The best and second-best results are highlighted in **bold** and <ins>underline</ins>, respectively. Results marked with $^*$ indicate statistically significant improvements over the strongest baseline ($p < 0.05$).
+**Figure4**: Performance of different methods on the proposed ICD coding dataset. Models marked with $^\dagger$ denote commercial APIs. The best and second-best results are highlighted in **bold** and <ins>underline</ins>, respectively. Results marked with $^*$ indicate statistically significant improvements over the strongest baseline ($p < 0.05$).
 
 ## 📌 Case Study
 <div align="center">
 <img src="Pictures/case.png" alt="case" width="70%" border="0">
 
-**Figure6**: Case study comparing disease and procedure ICD prediction results of different methods on a real-world Chinese EHR example.
+**Figure5**: Case study comparing disease and procedure ICD prediction results of different methods on a real-world Chinese EHR example.
 </div>
 
 ## 🧪 Ablation Study
 <div align="center">
 <img src="Pictures/fig5.png" alt="fig5" width="50%" border="0">
 
-**Figure7**: Ablation results for disease ICD coding.
+**Figure6**: Ablation results for disease ICD coding.
 </div>
 <div align="center">
 <img src="Pictures/fig6.png" alt="fig6" width="50%" border="0">
 
-**Figure8**: Ablation results for procedure ICD coding.
+**Figure7**: Ablation results for procedure ICD coding.
 </div>
 
 ## 🧩 Workflow Example
 <div align="center">
 <img src="Pictures/workflow.png" alt="workflow" width="80%" border="0">
 
-**Figure9**: An illustrative example of the JointCoder workflow, showing intermediate outputs for disease and procedure coding at each stage.
+**Figure8**: An illustrative example of the JointCoder workflow, showing intermediate outputs for disease and procedure coding at each stage.
 </div>
 
 ## 🌟 Contributions and suggestions are welcome!
