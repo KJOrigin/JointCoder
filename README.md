@@ -23,7 +23,7 @@ This repository provides the official implementation of the paper **“Who Fight
 **Figure3**: Screenshot of the web-based JointCoder system interface.
 
 ## 🎬 Demo Video
-**The demo video can be accessed at [this link!](https://yunpan.qlu.edu.cn:443/link/CE86D849DD24EA9EE3D68AF2FD90D539)**
+**The demo video can be accessed at [this link.](https://yunpan.qlu.edu.cn:443/link/CE86D849DD24EA9EE3D68AF2FD90D539)**
 
 ## 📂 Dataset Sample
 <img src="Doc/Pictures/table1.png" alt="table1" border="0">
