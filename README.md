@@ -17,13 +17,13 @@ This repository provides the official implementation of the paper **“Who Fight
 **Figure2**: Overview of the JointCoder framework and the real-world Chinese ICD coding dataset. JointCoder jointly performs ICD-10 disease coding and ICD-9-CM-3 procedure coding through a unified, workflow-aligned multi-stage multi-agent framework.
 
 ## 🌐 Demo Website
-**Demo Website: please [Click here!](http://159.89.222.214:9028/)**
+**Our demo website is available at [this link.](http://159.89.222.214:9028/)**
 <img src="Pictures/screenshot.png" alt="screenshot" border="0">
 
 **Figure3**: Screenshot of the web-based JointCoder system interface.
 
 ## 🎬 Demo Video
-**Demo Video: please [Click here!](https://yunpan.qlu.edu.cn:443/link/CE86D849DD24EA9EE3D68AF2FD90D539)**
+**The demo video can be accessed at [this link!](https://yunpan.qlu.edu.cn:443/link/CE86D849DD24EA9EE3D68AF2FD90D539)**
 
 ## 📂 Dataset Sample
 <img src="Doc/Pictures/table1.png" alt="table1" border="0">
