@@ -63,10 +63,11 @@ The video demonstrates the complete workflow, including demo case selection, OCR
 **Figure5**:Case study comparing disease and procedure ICD prediction results of different methods on a real-world Chinese EHR example.
 
 ## 🧪 Ablation Study
-<img src="Pictures/fig5.png" alt="fig5" width="90%" border="0">
+<img src="Pictures/fig5.png" alt="fig5" width="50%" border="0">
 
 **Figure6**:Ablation results for disease ICD coding.
-<img src="Pictures/fig6.png" alt="fig6" width="90%" border="0">
+
+<img src="Pictures/fig6.png" alt="fig6" width="50%" border="0">
 
 **Figure7**:Ablation results for procedure ICD coding.
 
