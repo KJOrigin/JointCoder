@@ -1,10 +1,8 @@
-# JointCoder
-
 <img src="Pictures/title.png" alt="title" border="0">
 
 <p float="left"><img src="https://img.shields.io/badge/python-v3.9+-red"> <img src="https://img.shields.io/badge/pytorch-v2.6+-blue">
    
-# Who Fights Best?
+# JointCoder
 This repository provides the official implementation of the paper **“Who Fights Best? Discovering Winning Personality Pairings for LLM Debate Agents”**, including the MBTI-DB framework, personality-conditioned debate prompts, experimental code, evaluation scripts, and released results, enabling reproducible research and further exploration of personality-driven multi-agent debate in large language models.
 
 <div align="center">
