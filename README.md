@@ -18,6 +18,22 @@ This repository provides the official implementation of the paper **“Who Fight
 
 ## 🌐 Demo Website
 **Our demo website is available at [this link.](http://159.89.222.214:9028/)**
+
+The system provides four core functions:
+
+1. **Select Demo Cases**  
+   Users can choose from four preloaded EHR samples (Sample 4 contains no surgical record). The system performs OCR-based content extraction and de-identification, allows content review and editing, and then runs disease and procedure coding in parallel. Agent outputs are expandable/collapsible, and final ICD results are displayed in tables and saved to the database.
+
+2. **Upload a Single PDF File**  
+   Users can upload a local PDF EHR file. The system applies OCR and de-identification, supports content editing before submission, and performs parallel disease and procedure coding with structured result display.
+
+3. **Batch Upload PDF Files**  
+   Multiple PDF EHR files can be uploaded simultaneously. The system processes each case sequentially, applies batch OCR, and performs parallel coding for each case. Results are displayed in tables and stored in the database.
+
+4. **Upload Excel and Batch Submit**  
+   Users can upload de-identified Excel-formatted EHR files directly (without OCR), significantly improving efficiency. The system processes each case sequentially and performs parallel coding with structured output.
+   
+After coding, users can provide case-level or result-level feedback, mark cases as completed, and export coding results or feedback data.
 <img src="Pictures/screenshot.png" alt="screenshot" border="0">
 
 **Figure3**: Screenshot of the web-based JointCoder system interface.
