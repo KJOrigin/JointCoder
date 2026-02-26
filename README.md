@@ -10,6 +10,9 @@ This repository provides the official implementation of the paper **“Who Fight
 
 **Figure2**: Overview of the JointCoder framework and the real-world Chinese ICD coding dataset. JointCoder jointly performs ICD-10 disease coding and ICD-9-CM-3 procedure coding through a unified, workflow-aligned multi-stage multi-agent framework.
 
+## 📂 Dataset Sample
+<img src="Doc/Pictures/table1.png" alt="table1" border="0">
+
 ## 📊 Experiments
 <div align="center">
 <img src="Pictures/fig3.png" alt="fig3" width="50%" border="0">
@@ -54,33 +57,6 @@ This repository provides the official implementation of the paper **“Who Fight
 **Figure9**: Performance changes for each model (compared with the control prompt) across different personality-pair selection strategies show that all strategies outperform random selection.
 
 **For more detailed experimental results, please [Click here!](Experiment%20Results/README.md)**
-
-## 📝 Prompt Templates
-<div align="center">
-<img src="Pictures/prompt.png" alt="prompt"  width="60%" border="0">
-
-**Table1**: Prompt flow template for MBTI-driven multi-agent debate.
-</div>
-
-**For more detailed prompt templates, please [Click here!](Prompt%20Templates/README.md)**
-
-**For detailed case study, please [Click here!](Casestudy/README.md)**
-
-## 🧭 Debate Process
-**For a detailed debate process of each model, please [Click here!](Debate%20Process/README.md)**
-
-## 📖 Usage
-You can implement our methods according to the following steps:
-
-1. Install the necessary packages. Run the command:
-   ```shell
-   pip install -r requirements.txt
-   ```
-2. Run our code:
-   
-   ```shell
-   bash mbti_debate.sh
-   ```
 
 
 ## 🌟 Contributions and suggestions are welcome!
