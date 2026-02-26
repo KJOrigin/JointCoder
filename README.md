@@ -54,7 +54,7 @@ To illustrate the structure and format of the dataset, we provide six representa
 
 ## 📊 Experiments
 <div align="center">
-<img src="Pictures/fig4.png" alt="fig4" width="60%" border="0">
+<img src="Pictures/fig4.png" alt="fig4" width="70%" border="0">
 </div>
 
 **Figure4**: Performance of different methods on the proposed ICD coding dataset. Models marked with $^\dagger$ denote commercial APIs. The best and second-best results are highlighted in **bold** and <ins>underline</ins>, respectively. Results marked with $^*$ indicate statistically significant improvements over the strongest baseline ($p < 0.05$).
