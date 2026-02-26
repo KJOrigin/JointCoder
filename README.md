@@ -37,8 +37,10 @@ After coding, users can provide case-level or result-level feedback, mark cases 
 
 > ⚠ **Notice:** Due to patient privacy concerns related to local file uploads, the following functions are temporarily disabled in the public demo environment: **Upload a Single PDF File**, **Batch Upload PDF Files**, and **Upload Excel and Batch Submit**. These features are fully demonstrated in the demo video.
 <img src="Pictures/screenshot.png" alt="screenshot" border="0">
-
+<div align="center">
+   
 **Figure3**: Screenshot of the web-based JointCoder system interface.
+</div>
 
 ## 🎬 Demo Video
 **The demo video can be accessed at [this link.](https://yunpan.qlu.edu.cn:443/link/CE86D849DD24EA9EE3D68AF2FD90D539)**
