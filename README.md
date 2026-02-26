@@ -65,7 +65,7 @@ Here, we present a representative sample to demonstrate the specific structure o
 
 ## 📌 Case Study
 <div align="center">
-<img src="Pictures/case.png" alt="case" width="60%" border="0">
+<img src="Pictures/case.png" alt="case" width="70%" border="0">
 
 **Figure6**: Case study comparing disease and procedure ICD prediction results of different methods on a real-world Chinese EHR example.
 </div>
