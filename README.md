@@ -53,43 +53,8 @@ The video demonstrates the complete workflow, including demo case selection, OCR
 <img src="Pictures/fig4.png" alt="fig4" width="80%" border="0">
 </div>
 
-**Figure3**: Performance of different methods on the proposed ICD coding dataset. Models marked with $^\dagger$ denote commercial APIs. The best and second-best results are highlighted in \textbf{bold} and \underline{underline}, respectively. Results marked with $^*$ indicate statistically significant improvements over the strongest baseline ($p < 0.05$).
+**Figure3**: Performance of different methods on the proposed ICD coding dataset. Models marked with $^\dagger$ denote commercial APIs. The best and second-best results are highlighted in **bold** and <u>underline</u>, respectively. Results marked with $^*$ indicate statistically significant improvements over the strongest baseline ($p < 0.05$).
 
-<div align="center">
-<img src="Pictures/fig4.png" alt="fig4" width="50%" border="0">
-</div>
-
-**Figure4**: Accuracy comparison across single-agent and multi-agent inference settings, where the single-agent results are averaged over three MBTI personality prompts.
-
-<div align="center">
-<img src="Pictures/fig5.png" alt="fig5" width="50%" border="0">
-</div>
-
-**Figure5**: The impact of personality pairs on performance varies across models. Some models show effects that are largely skewed toward negative changes, while others exhibit a greater proportion of positive changes. Here, N denotes the number of evaluated personality pairs.
-
-<div align="center">
-<img src="Pictures/fig6.png" alt="fig6" width="50%" border="0">
-
-**Figure6**: LLMs exhibit increasingly positive performance effects from personality pairs as model size grows.
-</div>
-
-<div align="center">
-<img src="Pictures/fig7.png" alt="fig7" width="50%" border="0">
-</div>
-
-**Figure7**: Personality pairs in the Math, Business, and Physics domains lead to better performance than those in other domains across models, with models exhibiting low PAS excluded from the analysis.
-
-<div align="center">
-<img src="Pictures/fig8.png" alt="fig8" border="0">
-</div>
-
-**Figure8**: (a) Lexical density of the personality description is weakly positively correlated with model performance. (b) Personality-question similarity shows a weak to moderate negative correlation with model performance. (c) Prompt perplexity exhibits a weak negative correlation with model performance.
-
-<div align="center">
-<img src="Pictures/fig9.png" alt="fig9" border="0">
-</div>
-
-**Figure9**: Performance changes for each model (compared with the control prompt) across different personality-pair selection strategies show that all strategies outperform random selection.
 
 **For more detailed experimental results, please [Click here!](Experiment%20Results/README.md)**
 
