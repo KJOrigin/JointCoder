@@ -50,10 +50,10 @@ The video demonstrates the complete workflow, including demo case selection, OCR
 
 ## 📊 Experiments
 <div align="center">
-<img src="Pictures/fig3.png" alt="fig3" width="50%" border="0">
+<img src="Pictures/fig4.png" alt="fig4" width="80%" border="0">
 </div>
 
-**Figure3**: The top and bottom 10 MBTI personality pairs ranked by their effect sizes on model performance changes relative to the control setting, with models exhibiting low PAS excluded from the analysis.
+**Figure3**: Performance of different methods on the proposed ICD coding dataset. Models marked with $^\dagger$ denote commercial APIs. The best and second-best results are highlighted in \textbf{bold} and \underline{underline}, respectively. Results marked with $^*$ indicate statistically significant improvements over the strongest baseline ($p < 0.05$).
 
 <div align="center">
 <img src="Pictures/fig4.png" alt="fig4" width="50%" border="0">
