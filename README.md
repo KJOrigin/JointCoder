@@ -20,6 +20,7 @@ This repository provides the official implementation of the paper **“Who Fight
 **Demo Website: please [Click here!](http://159.89.222.214:9028/)**
 <img src="Pictures/screenshot.png" alt="screenshot" border="0">
 
+**Figure3**: Screenshot of the web-based JointCoder system interface.
 
 ## 🎬 Demo Video
 **Demo Video: please [Click here!](https://yunpan.qlu.edu.cn:443/link/CE86D849DD24EA9EE3D68AF2FD90D539)**
