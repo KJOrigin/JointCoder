@@ -36,6 +36,7 @@ The system provides four core functions:
 After coding, users can provide case-level or result-level feedback, mark cases as completed, and export coding results or feedback data.
 
 > ⚠ **Notice:** Due to patient privacy concerns related to local file uploads, the following functions are temporarily disabled in the public demo environment: **Upload a Single PDF File**, **Batch Upload PDF Files**, and **Upload Excel and Batch Submit**. These features are fully demonstrated in the demo video.
+
 <img src="Pictures/screenshot.png" alt="screenshot" border="0">
 <div align="center">
    
