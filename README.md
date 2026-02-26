@@ -34,6 +34,10 @@ The system provides four core functions:
    Users can upload de-identified Excel-formatted EHR files directly (without OCR), significantly improving efficiency. The system processes each case sequentially and performs parallel coding with structured output.
    
 After coding, users can provide case-level or result-level feedback, mark cases as completed, and export coding results or feedback data.
+
+> ❗ **Notice:** Due to patient privacy concerns related to local file uploads, the following functions are temporarily disabled in the public demo environment:  
+> **Upload a Single PDF File**, **Batch Upload PDF Files**, and **Upload Excel and Batch Submit**.  
+> These features are fully demonstrated in the demo video.
 <img src="Pictures/screenshot.png" alt="screenshot" border="0">
 
 **Figure3**: Screenshot of the web-based JointCoder system interface.
