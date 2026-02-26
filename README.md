@@ -64,7 +64,7 @@ The video demonstrates the complete workflow, including demo case selection, OCR
 
 ## 🧩 Workflow Example
 <div align="center">
-<img src="Pictures/workflow.png" alt="workflow" width="60%" border="0">
+<img src="Pictures/workflow.png" alt="workflow" width="80%" border="0">
 </div>
 
 **Figure6**:An illustrative example of the JointCoder workflow, showing intermediate outputs for disease and procedure coding at each stage.
