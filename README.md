@@ -50,7 +50,7 @@ The video demonstrates the complete workflow, including demo case selection, OCR
 
 ## 📂 Dataset Sample
 We construct a real-world dataset for automated ICD coding based on de-identified patient EHRs from a top-tier Chinese hospital. The dataset contains 6,747 hospitalization records, each annotated with ICD-10 disease codes and ICD-9-CM-3 procedure codes by experienced coders.﻿
-To illustrate the structure and format of the dataset, we provide six representative sample records in **Dataset Sample/Dataset Sample.xlsx.**
+To illustrate the structure and format of the dataset, we provide six representative sample records in **Dataset Sample/Dataset Samples.xlsx.**
 
 ## 📊 Experiments
 <div align="center">
