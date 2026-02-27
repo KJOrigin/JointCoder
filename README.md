@@ -81,8 +81,8 @@ To illustrate the structure and format of the dataset, we provide six representa
 ## 🧩 Workflow Example
 <div align="center">
 <img src="Pictures/workflow1.png" alt="workflow1" width="80%" border="0">
+</div>
 
 **Figure8**: An illustrative example of the JointCoder workflow, showing intermediate outputs for disease and procedure coding at each stage.
-</div>
 
 ## 🌟 Contributions and suggestions are welcome!
