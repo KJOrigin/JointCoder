@@ -33,7 +33,7 @@ The system provides four core functions:
    
 After coding, users can provide case-level or result-level feedback, mark cases as completed, and export coding results or feedback data.
 
-These features are fully demonstrated in the demo video.
+These features are fully demonstrated in the demo video. **Demo video: [YouTube link](https://www.youtube.com/watch?v=fC23ge_EK3E).**
 
 <img src="Pictures/screenshot.png" alt="screenshot" border="0">
 <div align="center">
@@ -43,6 +43,7 @@ These features are fully demonstrated in the demo video.
 
 ## 🎬 Demo Video
 **Demo video: [YouTube link](https://www.youtube.com/watch?v=fC23ge_EK3E).**
+
 We provide a demo video (2 minutes and 29 seconds) that comprehensively showcases all functionalities of **JointCoder**.
 The video demonstrates the complete workflow, including demo case selection, OCR-based content extraction and de-identification, editable input review, parallel disease and procedure coding, expandable multi-agent outputs, structured ICD result presentation, feedback annotation, and data export.
 
