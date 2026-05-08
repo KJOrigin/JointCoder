@@ -16,9 +16,7 @@ This repository provides the official implementation of the paper **“JointCode
 
 **Figure2**: Overview of the JointCoder framework and the real-world Chinese ICD coding dataset. JointCoder jointly performs ICD-10 disease coding and ICD-9-CM-3 procedure coding through a unified, workflow-aligned multi-stage multi-agent framework.
 
-## 🌐 Demo Website
-**Our demo website is available at [this link.](http://159.89.222.214:9028/)**
-
+## 🌐 JointCoder System Features
 The system provides four core functions:
 
 1. **Select Demo Cases**  
@@ -35,7 +33,7 @@ The system provides four core functions:
    
 After coding, users can provide case-level or result-level feedback, mark cases as completed, and export coding results or feedback data.
 
-> ⚠ **Notice:** Due to patient privacy concerns related to local file uploads, the following functions are temporarily disabled in the public demo environment: **Upload a Single PDF File**, **Batch Upload PDF Files**, and **Upload Excel and Batch Submit**. These features are fully demonstrated in the demo video.
+These features are fully demonstrated in the demo video.
 
 <img src="Pictures/screenshot.png" alt="screenshot" border="0">
 <div align="center">
@@ -45,7 +43,6 @@ After coding, users can provide case-level or result-level feedback, mark cases 
 
 ## 🎬 Demo Video
 **Demo video: [YouTube link](https://www.youtube.com/watch?v=fC23ge_EK3E).**
-
 We provide a demo video (2 minutes and 29 seconds) that comprehensively showcases all functionalities of **JointCoder**.
 The video demonstrates the complete workflow, including demo case selection, OCR-based content extraction and de-identification, editable input review, parallel disease and procedure coding, expandable multi-agent outputs, structured ICD result presentation, feedback annotation, and data export.
 
