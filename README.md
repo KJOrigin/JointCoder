@@ -84,4 +84,17 @@ To illustrate the structure and format of the dataset, we provide six representa
 
 **Figure 8**: An illustrative example of the JointCoder workflow, showing intermediate outputs for disease and procedure coding at each stage.
 
+## 📖 Citation
+
+If you find this repository or our work useful, please cite our paper:
+
+```bibtex
+@inproceedings{liu2026jointcoder,
+  title     = {JointCoder: Exploring Automated ICD Coding on Real-World Chinese EHRs with a Multi-Agent Framework},
+  author    = {Liu, Kangjun and Li, Zhenyu and Wang, Jianlei and Guan, Hongjiao and Lian, Ying and Chen, Guoqiang},
+  booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics: System Demonstrations},
+  year      = {2026}
+}
+```
+
 ## 🌟 Contributions and suggestions are welcome!
