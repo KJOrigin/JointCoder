@@ -9,12 +9,12 @@ This repository provides the official implementation of the paper **“JointCode
    <img src="Pictures/fig1.png" alt="fig1" width="80%" border="0">
 </div>
 
-**Figure1**: Overview of the automated ICD coding task. Given patient EHRs, the goal is to jointly predict ICD-10 disease codes and ICD-9-CM-3 procedure codes, where disease and procedure coding are clinically correlated.
+**Figure 1**: Overview of the automated ICD coding task. Given patient EHRs, the goal is to jointly predict ICD-10 disease codes and ICD-9-CM-3 procedure codes, where disease and procedure coding are clinically correlated.
 
 ## ✨ Overview
 <img src="Pictures/main.png" alt="fig2" border="0">
 
-**Figure2**: Overview of the JointCoder framework and the real-world Chinese ICD coding dataset. JointCoder jointly performs ICD-10 disease coding and ICD-9-CM-3 procedure coding through a unified, workflow-aligned multi-stage multi-agent framework.
+**Figure 2**: Overview of the JointCoder framework and the real-world Chinese ICD coding dataset. JointCoder jointly performs ICD-10 disease coding and ICD-9-CM-3 procedure coding through a unified, workflow-aligned multi-stage multi-agent framework.
 
 ## 🌐 JointCoder System Features
 The system provides four core functions:
@@ -38,7 +38,7 @@ These features are fully demonstrated in the demo video. **Demo video: [YouTube 
 <img src="Pictures/screenshot.png" alt="screenshot" border="0">
 <div align="center">
    
-**Figure3**: Screenshot of the web-based JointCoder system interface.
+**Figure 3**: Screenshot of the web-based JointCoder system interface.
 </div>
 
 ## 🎬 Demo Video
@@ -56,25 +56,25 @@ To illustrate the structure and format of the dataset, we provide six representa
 <img src="Pictures/fig41.png" alt="fig41" width="70%" border="0">
 </div>
 
-**Figure4**: Performance of different methods on the proposed ICD coding dataset. Models marked with $^\dagger$ denote commercial APIs. The best and second-best results are highlighted in **bold** and <ins>underline</ins>, respectively. Results marked with $^*$ indicate statistically significant improvements over the strongest baseline ($p < 0.05$).
+**Figure 4**: Performance of different methods on the proposed ICD coding dataset. Models marked with $^\dagger$ denote commercial APIs. The best and second-best results are highlighted in **bold** and <ins>underline</ins>, respectively. Results marked with $^*$ indicate statistically significant improvements over the strongest baseline ($p < 0.05$).
 
 ## 📌 Case Study
 <div align="center">
 <img src="Pictures/case1.png" alt="case1" width="70%" border="0">
 
-**Figure5**: Case study comparing disease and procedure ICD prediction results of different methods on a real-world Chinese EHR example.
+**Figure 5**: Case study comparing disease and procedure ICD prediction results of different methods on a real-world Chinese EHR example.
 </div>
 
 ## 🧪 Ablation Study
 <div align="center">
 <img src="Pictures/fig5.png" alt="fig5" width="50%" border="0">
 
-**Figure6**: Ablation results for disease ICD coding.
+**Figure 6**: Ablation results for disease ICD coding.
 </div>
 <div align="center">
 <img src="Pictures/fig6.png" alt="fig6" width="50%" border="0">
 
-**Figure7**: Ablation results for procedure ICD coding.
+**Figure 7**: Ablation results for procedure ICD coding.
 </div>
 
 ## 🧩 Workflow Example
@@ -82,6 +82,6 @@ To illustrate the structure and format of the dataset, we provide six representa
 <img src="Pictures/workflow1.png" alt="workflow1" width="80%" border="0">
 </div>
 
-**Figure8**: An illustrative example of the JointCoder workflow, showing intermediate outputs for disease and procedure coding at each stage.
+**Figure 8**: An illustrative example of the JointCoder workflow, showing intermediate outputs for disease and procedure coding at each stage.
 
 ## 🌟 Contributions and suggestions are welcome!
