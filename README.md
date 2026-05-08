@@ -91,8 +91,8 @@ If you find this repository or our work useful, please cite our paper:
 ```bibtex
 @inproceedings{liu2026jointcoder,
   title     = {JointCoder: Exploring Automated ICD Coding on Real-World Chinese EHRs with a Multi-Agent Framework},
-  author    = {Liu, Kangjun and Li, Zhenyu and Wang, Jianlei and Guan, Hongjiao and Lian, Ying and Chen, Guoqiang},
-  booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics: System Demonstrations},
+  author    = {Liu, Kangjun and Li, Zhenyu and Wang, Jianlei and Guan, Hongjiao and Lian, Ying and Chen, Guoqiang and Xin, Tao and Lu, Wenpeng},
+  booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)},
   year      = {2026}
 }
 ```
