@@ -84,12 +84,6 @@ To illustrate the structure and format of the dataset, we provide six representa
 
 **Figure 8**: An illustrative example of the JointCoder workflow, showing intermediate outputs for disease and procedure coding at each stage.
 
-## 📝 Erratum
-
-In the camera-ready version of the paper, the Procedure Jaccard value of the full JointCoder model in the ablation table was incorrectly reported as **0.8313**. The correct value is **0.8618**, which is consistent with the main experimental results in Table 1.
-
-This correction only fixes a typographical error and does not affect the experimental conclusions or the observed ablation trends.
-
 ## 📖 Citation
 
 If you find this repository or our work useful, please cite our paper:
