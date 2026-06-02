@@ -65,7 +65,7 @@ To illustrate the structure and format of the dataset, we provide six representa
 **Table 2**: Ablation results for disease ICD coding.
 </div>
 <div align="center">
-<img src="Pictures/fig6.png" alt="fig6" width="50%" border="0">
+<img src="Pictures/fig66.png" alt="fig6" width="50%" border="0">
 
 **Table 3**: Ablation results for procedure ICD coding.
 </div>
