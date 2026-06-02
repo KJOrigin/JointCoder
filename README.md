@@ -56,37 +56,38 @@ To illustrate the structure and format of the dataset, we provide six representa
 <img src="Pictures/fig41.png" alt="fig41" width="70%" border="0">
 </div>
 
-**Figure 4**: Performance of different methods on the proposed ICD coding dataset. Models marked with $^\dagger$ denote commercial APIs. The best and second-best results are highlighted in **bold** and <ins>underline</ins>, respectively. Results marked with $^*$ indicate statistically significant improvements over the strongest baseline ($p < 0.05$).
-
-## 📌 Case Study
-<div align="center">
-<img src="Pictures/case1.png" alt="case1" width="70%" border="0">
-
-**Figure 5**: Case study comparing disease and procedure ICD prediction results of different methods on a real-world Chinese EHR example.
-</div>
+**Table 1**: Performance of different methods on the proposed ICD coding dataset. Models marked with $^\dagger$ denote commercial APIs. The best and second-best results are highlighted in **bold** and <ins>underline</ins>, respectively. Results marked with $^*$ indicate statistically significant improvements over the strongest baseline ($p < 0.05$).
 
 ## 🧪 Ablation Study
 <div align="center">
 <img src="Pictures/fig5.png" alt="fig5" width="50%" border="0">
 
-**Figure 6**: Ablation results for disease ICD coding.
+**Table 2**: Ablation results for disease ICD coding.
 </div>
 <div align="center">
 <img src="Pictures/fig6.png" alt="fig6" width="50%" border="0">
 
-**Figure 7**: Ablation results for procedure ICD coding.
+**Table 3**: Ablation results for procedure ICD coding.
 </div>
+
+## 📌 Case Study
+<div align="center">
+<img src="Pictures/case1.png" alt="case1" width="70%" border="0">
+
+**Table 4**: Case study comparing disease and procedure ICD prediction results of different methods on a real-world Chinese EHR example.
+</div>
+
 
 ## 🧩 Workflow Example
 <div align="center">
 <img src="Pictures/workflow1.png" alt="workflow1" width="80%" border="0">
 </div>
 
-**Figure 8**: An illustrative example of the JointCoder workflow, showing intermediate outputs for disease and procedure coding at each stage.
+**Table 5**: An illustrative example of the JointCoder workflow, showing intermediate outputs for disease and procedure coding at each stage.
 
 ## 📝 Erratum
 
-In the camera-ready version of the paper, the Procedure Jaccard value of the full JointCoder model in the ablation table was incorrectly reported as **0.8313**. The correct value is **0.8618**, which is consistent with the main experimental results in Table 1.
+In the camera-ready version of the paper, the Procedure Jaccard value of the full JointCoder model in the ablation table was incorrectly reported as **0.8313**. The correct value is **0.8618**, which is consistent with the main experimental results in **Table 1**.
 
 This correction only fixes a typographical error and does not affect the experimental conclusions or the observed ablation trends.
 
